@@ -7,4 +7,8 @@ class Calc
   def sum
     @a + @b
   end
+
+  def multiplication
+    @a * @b
+  end
 end
