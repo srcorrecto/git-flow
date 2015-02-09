@@ -3,4 +3,8 @@ class Calc
     @a = a
     @b = b
   end
+
+  def sum
+    @a + @b
+  end
 end
